@@ -1,0 +1,57 @@
+.work{
+	background-image: url(image/123.jpg);
+	height: 700px;
+	background-size: cover;
+
+	
+}
+li{
+	display: inline-block;
+	color: white;
+	padding-top: 20px;
+
+}
+a{
+	color: white;
+	padding: 35px;
+	font-size: 18px;
+	text-decoration: none;
+
+}
+ul{
+	background-color: transparent;
+	height: 70px;
+	text-align: right;
+
+}
+button{
+	background-color: grey;
+}
+a{
+	color: white;
+	padding: 15px;
+}
+
+
+.color{
+	color: black;
+}
+.yoo{
+	color: white;
+}
+.yaa{
+	color: white;
+}
+.yoyo{
+	color: white;
+}
+.uiui{
+	background-color: #2196f3;
+}
+
+
+
+
+
+
+
